@@ -6,7 +6,7 @@ public class ATM {
 	
 	public static void main(String args[]) {
 	
-		BankAccount BA=new BankAccount(976,"Mohan Krishna","Kittu@",30000,10);
+		BankAccount BA=new BankAccount(976,"Mani Prasanth","mani@",25000,10);
 		
 		Scanner sc=new Scanner(System.in);
 		while(true){
